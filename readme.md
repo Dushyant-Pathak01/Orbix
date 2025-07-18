@@ -59,15 +59,15 @@ Or check your Serial Monitor or router for the assigned IP.
 
 ---
 
-## 🔌 Wiring
+## 🔌 Wiring -- According to SeedStudio Xiao ESP 32-C6
 
-| Component       | Pin           |
+| Component        | Pin           |
 |------------------|---------------|
-| LED Ring         | GPIO 2        |
-| Button (Mode)    | GPIO 0 (D3)   |
-| Button (+)       | GPIO 3        |
-| Button (−)       | GPIO 4        |
-| Buzzer           | GPIO 5        |
+| LED Ring         | GPIO 21 (D3)  |
+| Button (Mode)    | GPIO 19 (D8)  |
+| Button (+)       | GPIO 17 (D7)  |
+| Button (−)       | GPIO 20 (D9)  |
+| Buzzer           | GPIO 22 (D4)  |
 
 ---
 
